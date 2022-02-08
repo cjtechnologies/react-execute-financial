@@ -7,5 +7,4 @@ npx create-react-app execute-financial
 npm i react-icons --save
 
 
-Time: 00.29.55 
-navbar css (00.11.34 to 00.29.55)
+Time: 00.53.40 
