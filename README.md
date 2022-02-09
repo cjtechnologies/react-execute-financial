@@ -7,4 +7,4 @@ npx create-react-app execute-financial
 npm i react-icons --save
 
 
-Time: 00.53.40 
+Time: 01.04.00 
