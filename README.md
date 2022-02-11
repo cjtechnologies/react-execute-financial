@@ -5,6 +5,3 @@ Sample website developed in react based on Youtube Code Commerce channel's https
 npx create-react-app execute-financial
 
 npm i react-icons --save
-
-
-Time: 01.04.00 

@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className='header'>
         <nav className='navbar'>
-            <Link href='/' className='logo'>
+            <Link to='/' className='logo'>
                 <img src={logo} alt='logo'/>
             </Link>
             <div className='hamburger' onClick={handleClick}>
